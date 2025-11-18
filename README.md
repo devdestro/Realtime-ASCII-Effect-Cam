@@ -1,4 +1,5 @@
 # ASCII Glow Camera
+![demo](ascii_frame_3.png)
 
 Real-time webcam ASCII renderer with:
 
